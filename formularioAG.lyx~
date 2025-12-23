@@ -1128,7 +1128,7 @@ Potenze
 \begin_inset Text
 
 \begin_layout Plain Layout
-\begin_inset Formula $a^{-b}=\dfrac{b}{a^{b}}$
+\begin_inset Formula $a^{-b}=\dfrac{1}{a^{b}}$
 \end_inset
 
 
@@ -6599,7 +6599,7 @@ Rappresentazione come punto
 \end_layout
 
 \begin_layout Standard
-Possiamo quindi rappresentare un qualunque numero reale su un piano,
+Possiamo quindi rappresentare un qualunque numero complesso su un piano,
  indicando con 
 \color orange
 Re
@@ -6800,7 +6800,7 @@ name "subsec:Rappresentazione-come-vettore"
 \end_layout
 
 \begin_layout Standard
-Possiamo anche rappresentare un numero reale come un 
+Possiamo anche rappresentare un numero complesso come un 
 \color purple
 vettore
 \color inherit
@@ -18611,6 +18611,14 @@ NOTA
 \emph on
 È possibile ricopiare la matrice una sola volta e tracciare le diagonali e le antidiagonali direttamente.
  È anche possibile utilizzare direttamente le formule senza rappresentarle graficamente.
+ 
+\begin_inset Newline newline
+\end_inset
+
+Esiste una versione più rapida della regola che permette di non ricopiare l'intera matrice.
+ In generale,
+ sta a voi scegliere il metodo più semplice,
+ purché funzioni e sia semplice da ricordare!
 \end_layout
 
 \begin_layout Section

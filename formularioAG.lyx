@@ -18482,7 +18482,7 @@ Determinante di una matrice con
 
 \begin_layout Standard
 Se 
-\begin_inset Formula $n=2$
+\begin_inset Formula $n=3$
 \end_inset
 
  allora la matrice 
@@ -18611,6 +18611,14 @@ NOTA
 \emph on
 È possibile ricopiare la matrice una sola volta e tracciare le diagonali e le antidiagonali direttamente.
  È anche possibile utilizzare direttamente le formule senza rappresentarle graficamente.
+ 
+\begin_inset Newline newline
+\end_inset
+
+Esiste una versione più rapida della regola che permette di non ricopiare l'intera matrice.
+ In generale,
+ sta a voi scegliere il metodo più semplice,
+ purché funzioni e sia semplice da ricordare!
 \end_layout
 
 \begin_layout Section
