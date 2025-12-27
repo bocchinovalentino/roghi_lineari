@@ -22397,12 +22397,16 @@ La lettera
 \emph on
 left 
 \emph default
-perché moltiplichiamo il vettore 
+perché moltiplichiamo la matrice 
+\begin_inset Formula $A$
+\end_inset
+
+ 
 \emph on
 a sinistra 
 \emph default
-della matrice 
-\begin_inset Formula $A$
+del vettore 
+\begin_inset Formula $\textcolor{orange}{\ensuremath{x}}$
 \end_inset
 
 .
