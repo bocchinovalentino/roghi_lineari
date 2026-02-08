@@ -9,6 +9,10 @@
 \usepackage{tikz}
 \usetikzlibrary{arrows.meta,calc,angles,quotes}
 \usepackage{tikz-3dplot}
+
+%Copertine
+\usepackage{pdfpages}
+
 %Questo l'ha creato ChatGPT per impedire che nell'indice dei contenuti i numeri si incollino ai titoli. 
 %Se dà problemi, buttalo via. 
 % Uniforma spaziatura e allineamenti nell'indice
@@ -139,6 +143,28 @@ enumitem
 \end_header
 
 \begin_body
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+includepdf[pages=1,
+ width=
+\backslash
+paperwidth,
+ height=
+\backslash
+paperheight]{copertina.pdf}
+\end_layout
+
+\end_inset
+
+
+\end_layout
 
 \begin_layout Standard
 In copertina,
@@ -334,7 +360,7 @@ Quadrato di un trinomio con differenza
 \end_inset
 
 
-\begin_inset Formula $(A-B+C)^{2}=A^{2}+B^{2}+C^{2}-2AB+2AC+2BC$
+\begin_inset Formula $(A-B+C)^{2}=A^{2}+B^{2}+C^{2}-2AB+2AC-2BC$
 \end_inset
 
 
